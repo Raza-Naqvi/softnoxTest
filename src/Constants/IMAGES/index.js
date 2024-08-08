@@ -1,0 +1,17 @@
+export const IMAGES = {
+    menu: require('../../Assets/menu.png'),
+    dressBg: require('../../Assets/dressBg.png'),
+    cart: require('../../Assets/cart.png'),
+    swipe: require('../../Assets/swipe.png'),
+    upload: require('../../Assets/upload.png'),
+    heart: require('../../Assets/heart.png'),
+    shopPay: require('../../Assets/shopPay.png'),
+    woreBy: require('../../Assets/woreBy.png'),
+    arrow: require('../../Assets/arrow.png'),
+    upArrow: require('../../Assets/upArrow.png'),
+    star: require('../../Assets/start.png'),
+    thumb: require('../../Assets/thumb.png'),
+    fb: require('../../Assets/fb.png'),
+    twitter: require('../../Assets/twitter.png'),
+    pinterest: require('../../Assets/pinterest.png'),
+};
